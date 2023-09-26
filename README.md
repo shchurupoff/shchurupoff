@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan Shchurupov</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **Ivan19979/Ivan19979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
