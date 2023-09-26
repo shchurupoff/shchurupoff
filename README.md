@@ -5,7 +5,7 @@
   <li>🌱 I’m currently learning TypeScript.</li>
   <li>📫 How to reach me: <ul>
     <li><a href="https://t.me/shchurupoff">Telegram</a></li>
-    <li><a href="https://www.linkedin.com/in/ivan-shchurupov-0797ba289/">Telegram</a></li>
+    <li><a href="https://www.linkedin.com/in/ivan-shchurupov-0797ba289/">LinkedIn</a></li>
   </ul> </li>
   <li>⚡ Fun fact: for two years he lived in St. Petersburg in the knowledge of life and himself</li>
 </ul>
