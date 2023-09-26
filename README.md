@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Ivan19979/portfolio" target="_blank">Ivan Shchurupov - web-developmen on JS</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"><a href="https://github.com/Ivan19979/portfolio" target="_blank">Ivan Shchurupov - web-developmen on JS</a>🔭</h1>
 <ul>
   <li>👋 Hi, I’m Ivan</li>
   <li>👀 I’m interested in JS, React, TypeScript, NodeJS</li>
