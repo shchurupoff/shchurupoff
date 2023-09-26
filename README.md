@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Ivan19979/portfolio" target="_blank">Ivan Shchurupov - web-developmen on JS</a> 🔭</h1>
+<h1 align="center"><a href="https://ivan19979.github.io/portfolio/" target="_blank">Ivan Shchurupov - web-developmen on JS</a> 🔭</h1>
 <ul>
   <li>👋 Hi, I’m Ivan</li>
   <li>👀 I’m interested in JS, React, TypeScript, NodeJS</li>
